@@ -1884,7 +1884,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			box-shadow: inset 0 0 0 2px #2ee4bb;
-			color: #2ee4bb !important;
+			color: #009fcd !important;
 		}
 
 		input[type="submit"]:active,
